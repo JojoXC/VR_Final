@@ -6,6 +6,16 @@ TagManager:
   tags:
   - Pouring
   - Lava
+  - Lithium_1
+  - Potassium_1
+  - Sodium_1
+  - Copper_1
+  - Calcium_1
+  - Barium_1
+  - bunsenFire
+  - Sodium_2
+  - water
+  - Potassium_2
   layers:
   - Default
   - TransparentFX
